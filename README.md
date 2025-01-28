@@ -47,7 +47,7 @@ This project is a user-friendly **Text-to-Speech (TTS)** application built using
    ```bash
    pip install pyttsx3
 Clone or download this repository.
-🚀 Usage
+## Usage
 Run the Python script:
 bash
 Copy
@@ -55,7 +55,7 @@ Edit
 python main.py
 Enter your text in the input field.
 Click the Speak button to hear the text spoken aloud.
-📌 Highlights
+## Highlights
 This project demonstrates Python’s simplicity and versatility by combining GUI development and speech synthesis. It highlights the ease of integrating multiple libraries to solve real-world problems with minimal code.
 
 Through this project, I enhanced my skills in:
